@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "19638000000010092",
+      "name": "Marioini",
+      "domain": {
+        "id": "50028935591",
+        "name": "marioini-60043068786.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60043068786",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
